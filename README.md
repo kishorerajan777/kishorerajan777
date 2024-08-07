@@ -1,6 +1,6 @@
 - 👋 Hi, I’m kishorerajan a Computer Science Student
 - 👀 I’m interested in web developing,Data Science,Prompt Engineering
-- 🌱 I’m currently learning Python ,Data Analytics,Digital Marketing
+- 🌱 I’m currently learning Python, Web Development,Data Analytics,Digital Marketing,Web Development
 - 💞️ I’m looking to collaborate on working with whom want to learn Continiously
 - 📫 How to reach me ...kishorerajan777@gmail.com
 - 😄 Pronouns: ...he/his
