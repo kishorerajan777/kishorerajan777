@@ -1,6 +1,6 @@
 - 👋 Hi, I’m kishorerajan, a Computer Science Student  
 - 👀 I’m interested in Data Science, Machine Learning, and Prompt Engineering.  
-- 🌱 I’m currently learning Python, MySQL, Data Science, Data Analysis, Machine Learning, and Big Data.  
+- 🌱 I’m have Foundation knowledge in Python, MySQL, Data Science, Data Analysis, Machine Learning, and Big Data.  
 - 💞️ I’m looking to collaborate with anyone who wants to learn continuously.  
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kishore-rajan-056711285/), [Email](mailto:kishorejan777@gmail.com)  
 - 😄 Pronouns: he/his  
