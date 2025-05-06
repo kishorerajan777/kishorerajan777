@@ -19,8 +19,11 @@
 I'm open to collaborating with fellow learners who are passionate about continuous learning and technology.
 
 ## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/kishore-rajan-056711285/) 
-[Email](mailto:kishorerajan777@gmail.com)
+## 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/kishore-rajan-056711285/)
+  
+- [Email](mailto:kishorerajan777@gmail.com)
+
 ## 😄 Pronouns
 He / His
 
