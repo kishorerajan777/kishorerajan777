@@ -1,8 +1,30 @@
-kishorerajan777/README.md
-👋 Hi, I’m kishorerajan, a Computer Science Student
-👀 I’m interested in Data Science, Machine Learning, and Prompt Engineering.
-🌱 I’m have Foundation knowledge in Python, MySQL, Data Science, Data Analysis, Machine Learning, and Big Data.
-💞️ I’m looking to collaborate with anyone who wants to learn continuously.
-📫 How to reach me: Linkedin, Email
-😄 Pronouns: he/his
-⚡ Fun fact: "Did you know that GitHub, the popular platform for hosting and sharing code, was originally founded in 2008 and was almost called 'Gitub' instead? The name 'GitHub' was chosen to appeal to a broader audience, highlighting its focus on collaboration and community in addition to its Git version control roots." 
+# 👋 Hi there, I'm Kishore Rajan!
+
+🎓 I’m a Computer Science student with a strong interest in Data Science, Machine Learning, and Prompt Engineering.
+
+## 👀 Interests
+- Data Science
+- Machine Learning
+- Prompt Engineering
+
+## 🌱 Skills & Knowledge
+- Python (Foundation level)
+- MySQL
+- Data Science
+- Data Analysis
+- Machine Learning
+- Big Data
+
+## 💞️ Collaboration
+I'm open to collaborating with fellow learners who are passionate about continuous learning and technology.
+
+## 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/kishore-rajan-056711285/) 
+- Email:[kishorerajan777@example.com](https://mail.google.com/mail/u/0/#inbox)
+
+## 😄 Pronouns
+He / His
+
+## ⚡ Fun Fact
+> Did you know that GitHub, the popular platform for hosting and sharing code, was originally founded in 2008 and was almost called **'Gitub'** instead?  
+> The name **'GitHub'** was chosen to appeal to a broader audience, highlighting its focus on **collaboration and community**, in addition to its Git version control roots.
