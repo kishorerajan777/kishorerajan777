@@ -21,8 +21,8 @@ I'm open to collaborating with fellow learners who are passionate about continuo
 ## 📫 How to Reach Me
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/kishore-rajan-056711285/)
-  
-- [Email](mailto:kishorerajan777@gmail.com)
+- 📧 [kishorerajan777@gmail.com](mailto:kishorerajan777@gmail.com)
+
 
 ## 😄 Pronouns
 He / His
