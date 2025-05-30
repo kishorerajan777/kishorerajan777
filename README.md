@@ -13,6 +13,7 @@
 - Data Science
 - Data Analysis
 - Machine Learning
+- web developing 
 
 ## 💞️ Collaboration
 I'm open to collaborating with fellow learners who are passionate about continuous learning and technology.
