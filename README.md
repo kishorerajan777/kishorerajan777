@@ -1,8 +1,9 @@
 # 👋 Hi there, I'm Kishore Rajan!
 
-🎓 I’m a Computer Science student with a strong interest in Data Science, Machine Learning, and Prompt Engineering.
+🎓 I’m a Computer Science student with a strong interest in Data Engineering, Data Science, Machine Learning, and Prompt Engineering.
 
 ## 👀 Interests
+-Data Engineering
 - Data Science
 - Machine Learning
 - Prompt Engineering
