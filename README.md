@@ -1,32 +1,48 @@
-# 👋 Hi there, I'm Kishore Rajan!
+👋 Hi there, I'm Kishore Rajan!
 
-🎓 I’m a Computer Science student with a strong interest in Data Engineering, Data Science, Machine Learning, and Prompt Engineering.
+🎓 I’m a Computer Science graduate with a strong interest in Data Engineering, Data Science, Machine Learning, and Prompt Engineering.
 
-## 👀 Interests
--Data Engineering
-- Data Science
-- Machine Learning
-- Prompt Engineering
+👀 Interests
 
-## 🌱 Skills & Knowledge
-- Python
-- MySQL
-- Data Science
-- Data Analysis
-- Machine Learning
-- web developing 
+Data Engineering
 
-## 💞️ Collaboration
-I'm open to collaborating with fellow learners who are passionate about continuous learning and technology.
+Data Science
 
-## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/kishore-rajan-056711285/)
-- 📧 [kishorerajan777@gmail.com](mailto:kishorerajan777@gmail.com)
+Machine Learning
 
+Prompt Engineering
 
-## 😄 Pronouns
+🌱 Skills & Knowledge
+
+Python
+
+MySQL
+
+Data Analysis & Data Science
+
+Machine Learning
+
+Web Development
+
+💼 Experience
+
+3.5 months as a Data Engineering Trainee – Hands-on experience working with Databricks, Azure Data Factory, SQL, and Python. Learned to ingest, transform, and analyze data pipelines, gaining practical exposure to real-world data engineering workflows.
+
+💞️ Collaboration
+
+I’m open to collaborating with fellow learners and professionals who are passionate about technology, learning, and innovation.
+
+📫 How to Reach Me
+
+LinkedIn
+
+📧 kishorerajan777@gmail.com
+
+😄 Pronouns
+
 He / His
 
-## ⚡ Fun Fact
-> Did you know that GitHub, the popular platform for hosting and sharing code, was originally founded in 2008 and was almost called **'Gitub'** instead?  
-> The name **'GitHub'** was chosen to appeal to a broader audience, highlighting its focus on **collaboration and community**, in addition to its Git version control roots.
+⚡ Fun Fact
+
+Did you know that GitHub, the popular platform for hosting and sharing code, was almost called 'Gitub'?
+The name 'GitHub' was chosen to highlight its focus on collaboration and community, in addition to Git version control.
